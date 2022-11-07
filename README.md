@@ -13,6 +13,8 @@ Working with Python and SQL.
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Task_1.py)](https://github.com/sauberr/github-readme-stats)
 
 [![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&layout=compact&theme=merko" />
+
+
