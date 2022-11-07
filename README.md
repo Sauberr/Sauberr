@@ -13,14 +13,9 @@ Working with Python and SQL.
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
 
 
-
-[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
-
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko" />
 
-
-
-
+[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
 
 
 
@@ -28,8 +23,6 @@ Working with Python and SQL.
 
 
  ## Pinned:
- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=python_testing.py)](https://github.com/sauberr/python_testing.py)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Discord_Bot.py)](https://github.com/sauberr/Discord_Bot.py)
 
