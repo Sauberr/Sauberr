@@ -19,6 +19,14 @@ Working with Python and SQL.
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko" />
 
 
+
+
+
+
+
+
+
+
  ## Pinned:
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=python_testing.py)](https://github.com/sauberr/python_testing.py)
