@@ -15,4 +15,4 @@ Working with Python and SQL.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Task_1.py)](https://github.com/sauberr/github-readme-stats)
 
-[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr/github-readme-stats)
+[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
