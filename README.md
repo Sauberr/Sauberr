@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I am Dima 👋.
+My name is **Dmitriy Birilko** ,I am a beginner Python Developer since 2022.
 
-<!--
-**Sauberr/Sauberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working with Python and SQL.
 
-Here are some ideas to get you started:
+## Languages and Tools:
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?style=for-the-badge&logo=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
+![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?style=for-the-badge&logo=githubapi)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/sauberr/github-readme-stats)
