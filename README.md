@@ -26,5 +26,5 @@ Working with Python and SQL.
 
 
  ## Pinned:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=python_testing.py)](https://github.com/sauberr/python_testing.py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=random_password_generator.py)](https://github.com/Sauberr/random_password_generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=YouTube_Dowloader)](https://github.com/Sauberr/youtube_dowloader)
