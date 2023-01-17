@@ -26,5 +26,5 @@ Working with Python and SQL.
 
 
  ## Pinned:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=video_audi_track)](https://github.com/Sauberr/video_audi_track.py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=YouTube_Dowloader)](https://github.com/Sauberr/youtube_dowloader) 
