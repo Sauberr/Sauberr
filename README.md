@@ -18,5 +18,5 @@ Working with Python and SQL.
 
 ![Sauberr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sauberr&&show_icons=true&theme=dark)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauberr&amp;repo=github-readme-stats&amp;theme=buefy" style="max-width: 100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauberr&amp;repo=github-readme-stats&amp;theme=buefy" style="max-width: 49%;">
 
