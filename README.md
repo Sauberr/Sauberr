@@ -20,3 +20,4 @@ Working with Python and SQL.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauberr&amp;repo=github-readme-stats&amp;theme=buefy" style="max-width: 100%;">
 
+<img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="max-width: 100%;">
