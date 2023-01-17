@@ -5,7 +5,7 @@ My name is **Dmitriy Birilko** ,I am a beginner Python Developer since 2022.
 Working with Python and SQL.
 
 ## Languages and Tools:
-![Git](https://img.shields.io/badge/-Git-090909?)
+![Git](https://img.shields.io/badge/-Git-090909?&theme=merko)
 ![SQL](https://img.shields.io/badge/-SQL-090909?)
 ![Python](https://img.shields.io/badge/-Python-090909?)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?)
