@@ -8,7 +8,7 @@ Working with Python and SQL.
 ![Git](https://img.shields.io/badge/-Git-090909?)
 ![SQL](https://img.shields.io/badge/-SQL-090909?)
 ![Python](https://img.shields.io/badge/-Python-090909?)
-![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?style=for-the-badge&logo=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?)
 ![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?)
 ![Django](https://img.shields.io/badge/-Django-090909?)
 ![Flask](https://img.shields.io/badge/-Flask-090909?)
