@@ -19,6 +19,7 @@ Working with Python and SQL.
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=github-readme-stats)](https://github.com/sauberr/github-readme-stats)
 
 
 
