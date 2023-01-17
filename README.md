@@ -12,8 +12,7 @@ Working with Python and SQL.
 ![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?style=for-the-badge&logo=githubapi)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/-Flask-090909)
 
 
 <img align="left" width="49.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=dark">
