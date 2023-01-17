@@ -5,7 +5,7 @@ My name is Dmitriy Birilko ,I am a beginner Python Developer since 2022.
 Working with Python and SQL.
 
 ## Languages and Tools:
-<img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="max-width: 100%;">
+<img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="max-width: 100%;">
 ![Git](https://img.shields.io/badge/-Git-090909?)
 ![SQL](https://img.shields.io/badge/-SQL-090909?)
 ![Python](https://img.shields.io/badge/-Python-090909?)
