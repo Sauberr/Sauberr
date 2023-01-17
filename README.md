@@ -2,7 +2,7 @@
 ## Hi there, I am Dima :wave:.
 My name is **Dmitriy Birilko** ,I am a beginner Python Developer since 2022.
 
-Working with Python and SQL.
+Working with Python's frameworks Django or Flask and SQL.
 
 ## Languages and Tools:
 ![Git](https://img.shields.io/badge/-Git-090909?)
