@@ -24,7 +24,7 @@ Working with Python and SQL.
 
 
  ## Pinned:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=python_testing.py)](https://github.com/sauberr/YouTube_Dowloader.py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&YouTube_Dowloader.py)](https://github.com/sauberr/YouTube_Dowloader.py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Discord_Bot.py)](https://github.com/sauberr/Discord_Bot.py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Discord_Bot.py)](https://github.com/sauberr/Discord_Bot.py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Discord_Bot.py)](https://github.com/sauberr/Discord_Bot.py)
