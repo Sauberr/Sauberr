@@ -5,7 +5,7 @@ My name is **Dmitriy Birilko** ,I am a beginner Python Developer since 2022.
 Working with Python and SQL.
 
 ## Languages and Tools:
-![Git](https://img.shields.io/badge/-Git-090909?&theme=merko)
+![Git](https://img.shields.io/badge/-Git-090909?)
 ![SQL](https://img.shields.io/badge/-SQL-090909?)
 ![Python](https://img.shields.io/badge/-Python-090909?)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?)
@@ -23,8 +23,8 @@ Working with Python and SQL.
 
 
 
- ## Pinned:
+
 
  ## Pinned:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=python_testing.py)](https://github.com/sauberr/python_testing.py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Discord_Bot.py)](https://github.com/sauberr/Discord_Bot.py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Discord_Bot.py)](https://github.com/Sauberr/YouTube_Dowloader.py)
