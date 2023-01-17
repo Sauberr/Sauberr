@@ -28,5 +28,3 @@ Working with Python and SQL.
  ## Pinned:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=python_testing.py)](https://github.com/sauberr/python_testing.py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=youtube_dowloader.py)](https://github.com/Sauberr/youtube_dowloader.py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=random_password_generator.py)](https://github.com/Sauberr/random_password_generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=video_audi_track.py)](https://github.com/Sauberr/video_audi_track.py)
