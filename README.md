@@ -9,9 +9,10 @@ Working with Python and SQL.
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?style=for-the-badge&logo=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
+![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
 ![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?style=for-the-badge&logo=githubapi)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
+
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=dark">
 
@@ -19,11 +20,6 @@ Working with Python and SQL.
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=github-readme-stats)](https://github.com/sauberr/github-readme-stats)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sauberr&repo=github-readme-stats)](https://github.com/Sauberr/github-readme-stats)
 
 
 
