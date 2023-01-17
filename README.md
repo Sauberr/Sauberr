@@ -16,7 +16,7 @@ Working with Python and SQL.
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=dark">
 
-![Sauberr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sauberr&&show_icons=true&theme=dark&&width=49%)
+![Sauberr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sauberr&&show_icons=true&theme=dark&&width=40%)
 
 
 
