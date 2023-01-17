@@ -18,11 +18,3 @@ Working with Python and SQL.
 [![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
 
 
-
-
-
-
- ## Pinned:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=python_testing.py)](https://github.com/sauberr/python_testing.py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=Discord_Bot.py)](https://github.com/sauberr/Discord_Bot.py)
-
