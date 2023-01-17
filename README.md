@@ -5,12 +5,12 @@ My name is Dmitriy Birilko ,I am a beginner Python Developer since 2022.
 Working with Python and SQL.
 
 ## Languages and Tools:
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/-Git-090909?)
+![SQL](https://img.shields.io/badge/-SQL-090909?)
+![Python](https://img.shields.io/badge/-Python-090909?)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?style=for-the-badge&logo=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
-![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?style=for-the-badge&logo=githubapi)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?)
+![Django](https://img.shields.io/badge/-Django-090909?)
 ![Flask](https://img.shields.io/badge/-Flask-090909?)
 
 
