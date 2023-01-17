@@ -26,7 +26,7 @@ Working with Python and SQL.
 
 
 
-[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
+[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme==tokyonight)](https://github.com/Sauberr)
 
 
 
