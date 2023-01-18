@@ -12,6 +12,8 @@ Working with Python's frameworks Django or Flask and SQL.
 ![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?)
 ![Django](https://img.shields.io/badge/-Django-090909?)
 ![Flask](https://img.shields.io/badge/-Flask-090909?)
+![HTML](https://img.shields.io/badge/-HTML-090909?)
+![CSS](https://img.shields.io/badge/-CSS-090909?)
 
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko" />
