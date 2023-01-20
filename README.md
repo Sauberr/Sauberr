@@ -1,6 +1,6 @@
 
 ## Hi there, I am Dima :wave:.
-My name is **Dmitriy Birilko** ,I am a beginner Python Developer since 2022.
+My name is **Dmitriy** ,I am a beginner Python Developer since 2022.
 
 Working with Python's frameworks Django or Flask and SQL.
 
