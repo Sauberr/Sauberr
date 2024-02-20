@@ -2,7 +2,7 @@
 ## Hi there, I am Dima :wave:.
 My name is **Dmitry** ,I am a beginner Python Developer since 2022.
 
-Working with Python's frameworks Django, Flask, FastApi and DataBase, PostrageSQL, MySqlite and more.
+Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageSQL, MySqlite and more.
 
 ## Languages and Tools:
 ![Git](https://img.shields.io/badge/-Git-090909?)
