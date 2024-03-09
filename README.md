@@ -4,7 +4,7 @@
 
 ## 💬 About me
 
-Hi, my name is **Dmitry** and I am a Backend Python developer since 2022.
+Hi, my name is **Dmitry** and I am a Backend Python Developer since 2022.
 
 I specialise in web application development using:
 
