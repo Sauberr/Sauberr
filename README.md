@@ -15,15 +15,13 @@ Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageS
 </p>
 
 ### Languages and Tools:
-![Git](https://img.shields.io/badge/-Git-090909?)
-![SQL](https://img.shields.io/badge/-SQL-090909?)
-![Python](https://img.shields.io/badge/-Python-090909?)
-![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-090909?)
-![GitHubAPI](https://img.shields.io/badge/-GitHubAPI-090909?)
-![Django](https://img.shields.io/badge/-Django-090909?)
-![Flask](https://img.shields.io/badge/-Flask-090909?)
-![HTML](https://img.shields.io/badge/-HTML-090909?)
-![CSS](https://img.shields.io/badge/-CSS-090909?)
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
@@ -36,6 +34,6 @@ Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageS
 
 
 
- ## Pinned:
+ ### Pinned:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=todo_app)](https://github.com/Sauberr/todo_app) 
