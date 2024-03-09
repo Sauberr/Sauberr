@@ -2,7 +2,7 @@
 
 **`Python Backend Developer`**
 
-## About me
+## 💬 About me
 
 Hi, my name is **Dmitry** and I am a Backend Python developer since 2022.
 
@@ -62,7 +62,7 @@ Thank you for your attention!
 <br clear="left"/>
 <br clear="left"/>
 
-### 📊 Stats
+### 📊 Stats:
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
 
