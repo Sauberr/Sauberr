@@ -24,7 +24,7 @@ Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageS
 
 <br clear="left"/>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
 
 [![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
 
