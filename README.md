@@ -2,9 +2,45 @@
 
 **`Python Backend Developer`**
 
-My name is **Dmitry** ,I am a beginner Python Developer since 2022.
+## About me
 
-Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageSQL, MySqlite and more.
+Hi, my name is **Dmitry** and I am a Backend Python developer since 2022.
+
+I specialise in web application development using:
+
+- Python frameworks: Django, Flask, FastAPI
+- Databases: PostgreSQL, MySQLite, SQLAlchemy
+- Frontend technologies: HTML, CSS, JavaScript
+
+In my work I:
+
+- Design and develop the server side of web applications.
+- Implement business logic of applications.
+- Work with databases.
+- Provide security and performance of applications.
+- I perform testing and debugging of code.
+
+I am constantly learning and developing, so I am also currently learning:
+
+- FastAPI - an asynchronous framework for developing high performance APIs.
+- Pydantic - a library for validating data and creating data models.
+- SQLAlchemy - a database
+
+I am able to work independently and in a team, and also have the following qualities:
+
+- Responsibility
+- Punctuality
+- Communication skills
+- Analytical thinking
+- Willingness to learn and develop
+
+If you need an experienced and reliable Backend Python developer, I will be glad to cooperate!
+
+To contact me you can:
+
+Email me at: sauberr10@gmail.com.
+Find me on social networks: .
+Thank you for your attention!
 
 <p align="left">
   <a href="https://github.com/Sauberr?tab=repositories&sort=stargazers">
