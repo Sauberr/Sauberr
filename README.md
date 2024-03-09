@@ -14,7 +14,7 @@ Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageS
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Sauberr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## Languages and Tools:
+### Languages and Tools:
 ![Git](https://img.shields.io/badge/-Git-090909?)
 ![SQL](https://img.shields.io/badge/-SQL-090909?)
 ![Python](https://img.shields.io/badge/-Python-090909?)
