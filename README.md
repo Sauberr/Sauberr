@@ -23,6 +23,7 @@ Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageS
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 <br clear="left"/>
+<br clear="left"/>
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
 
