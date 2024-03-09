@@ -1,4 +1,3 @@
-
 ## Hi there, I am Dima :wave:.
 
 **`Python Backend Developer`**
@@ -23,13 +22,12 @@ Working with Python's frameworks Django, Flask, FastApi and DataBases, PostrageS
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
-
-
-
+<br clear="left"/>
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
 
 [![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
+
 
 
 
