@@ -38,7 +38,7 @@ If you need an experienced and reliable Backend Python developer, I will be glad
 
 To contact me you can:
 
-Email me at: sauberr10@gmail.com.
+Email me at: dmitriybirilko@gmail.com.
 Find me on social networks: .
 Thank you for your attention!
 
