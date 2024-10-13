@@ -8,7 +8,7 @@ Hi, my name is **Dmitry** and I am a Backend Python Developer since 2022.
 
 I specialise in web application development using:
 
--- Python frameworks: Django, Flask, FastAPI
+- Python frameworks: Django, Flask, FastAPI
 - Databases: PostgreSQL, MySQLite, SQLAlchemy
 - Frontend technologies: HTML, CSS, JavaScript
 
