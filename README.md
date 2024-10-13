@@ -1,8 +1,8 @@
 ## Hi there, I am Dima :wave:.
 
-**`Python Backend Developer`**
-
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Sauberr.Sauberr&color=00BFFF)
+
+**`Python Backend Developer`**
 
 ## 💬 About me
 
