@@ -2,7 +2,7 @@
 
 **`Python Backend Developer`**
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Sauberr.Sauberr&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Sauberr.Sauberr&color=#00BFFF)
 
 ## 💬 About me
 
