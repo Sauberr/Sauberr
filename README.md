@@ -87,4 +87,6 @@
 
  ### Pinned:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=gallery)](https://github.com/Sauberr/gallery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=todo_app)](https://github.com/Sauberr/todo_app) 
