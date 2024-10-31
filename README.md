@@ -40,7 +40,7 @@
 
 𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 𝚜𝚘𝚌𝚒𝚊𝚕 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜: . 
 
-𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚢𝚘𝚞𝚛 𝚊𝚝𝚝𝚎𝚗𝚝𝚒𝚘𝚗!
+Thank you for your attention!
 
 <p align="left">
   <a href="https://github.com/Sauberr?tab=repositories&sort=stargazers">
