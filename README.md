@@ -86,7 +86,7 @@
 
 
  ### Pinned:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=quiz_2024)](https://github.com/Sauberr/quiz_2024)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=gallery)](https://github.com/Sauberr/gallery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=todo_app)](https://github.com/Sauberr/todo_app) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=recipe_app_api)](https://github.com/Sauberr/recipe_app_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=mmo_game)](https://github.com/Sauberr/mmo_game) 
