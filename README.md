@@ -77,14 +77,3 @@
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
 
 [![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
-
-
-
-## Pinned
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=quiz_2024)](https://github.com/Sauberr/quiz_2024)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=gallery)](https://github.com/Sauberr/gallery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=recipe_app_api)](https://github.com/Sauberr/recipe_app_api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=mmo_game)](https://github.com/Sauberr/mmo_game) 
