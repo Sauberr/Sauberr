@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
+<h3 align="left">LeetCode & CodeWars</h3>
+<p align="left">
+<a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="40" width="40" /></a>
+<a href="https://www.codewars.com/users/Sauberr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-code.svg" alt="Sauberr" height="40" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="30" width="40" /></a>
@@ -53,6 +59,13 @@
 𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 𝚜𝚘𝚌𝚒𝚊𝚕 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜: . 
 
 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚢𝚘𝚞𝚛 𝚊𝚝𝚝𝚎𝚗𝚝𝚒𝚘𝚗!
+
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 14px; line-height: 21px; color: rgb(31, 35, 40);">
+  <p>Hi, I'm Dmitry, a backend Python developer with experience building web applications since 2022. I specialize in using frameworks like Django, Flask, and FastAPI to create robust and efficient server-side solutions. I'm proficient in working with databases such as PostgreSQL and MySQLite, and I'm comfortable using SQLAlchemy for object-relational mapping.</p>
+  <p>I'm passionate about writing clean, well-tested code and I'm always eager to learn new technologies and improve my skills. Currently, I'm exploring FastAPI for asynchronous API development and Pydantic for data validation.</p>
+  <p>I'm a strong communicator and enjoy collaborating with others, but I'm also comfortable working independently. I'm responsible, punctual, and dedicated to delivering high-quality work.</p>
+  <p>If you're looking for a reliable and experienced backend developer, feel free to reach out! You can find me on social media or email me at [your email address].</p>
+</div>
 
 
 <h3 align="left">💻  Tech Stack:</h3>
