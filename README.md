@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dima </h1>
+<h1 align="center"> 𝙷𝚒 👋, 𝙸'𝚖 𝙳𝚒𝚖𝚊 </h1>
 <h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
@@ -13,7 +13,7 @@
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 
-<h3 align="left">LeetCode & CodeWars</h3>
+<h3 align="left">𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 & 𝙲𝚘𝚍𝚎𝚆𝚊𝚛𝚜</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="30" width="40" /></a>
 </p>
@@ -38,7 +38,7 @@
 𝙸𝚏 𝚢𝚘𝚞'𝚛𝚎 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚊 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚍 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝! 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊 𝚘𝚛 𝚎𝚖𝚊𝚒𝚕 𝚖𝚎 𝚊𝚝 𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖.
 
 
-<h3 align="left">💻  Tech Stack:</h3>
+<h3 align="left">💻  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:</h3>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" alt="JavaScript" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Django" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> </a>
@@ -62,7 +62,7 @@
 <br clear="left"/>
 <br clear="left"/>
 
-### 📊 Stats:
+### 📊 𝚂𝚝𝚊𝚝𝚜:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauberr&show_icons=true&locale=en&layout=compact" alt="sauberr" /></p>
 
