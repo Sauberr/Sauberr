@@ -84,6 +84,7 @@
 <img align="left" alt="RabbitMQ" width="48px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original.svg" />
 <img align="left" alt="Docker" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="Elasticsearch" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-plain.svg" />
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> </a>
 
 <br clear="left"/>
 <br clear="left"/>
