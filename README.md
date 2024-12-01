@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B0-%D0%B1%D0%B8%D1%80%D0%B8%D0%BB%D0%BA%D0%BE-660914286/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/linkedin.svg" alt="sauberr10" height="30" width="40" /></a>
 </p>
 
-## 💬 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+<h3 align="left">💬 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 
 𝙷𝚒, 𝙸'𝚖 **𝙳𝚖𝚒𝚝𝚛𝚢**, 𝚊 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟸𝟸. 
 
@@ -62,7 +62,7 @@
 <br clear="left"/>
 <br clear="left"/>
 
-### 📊 𝚂𝚝𝚊𝚝𝚜:
+<h3 align="left">📊 𝚂𝚝𝚊𝚝𝚜: </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauberr&show_icons=true&locale=en&layout=compact" alt="sauberr" /></p>
 
