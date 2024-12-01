@@ -13,8 +13,8 @@
 
 <h3 align="left">LeetCode & CodeWars</h3>
 <p align="left">
-<a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="48" width="48" /></a>
-<a href="https://www.codewars.com/users/Sauberr" target="blank"><img align="center" src="https://github.com/codewars/branding/blob/master/logo.png" alt="Sauberr" height="48" width="48" /></a>
+<a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Sauberr" target="blank"><img align="center" src="https://github.com/codewars/branding/blob/master/logo.png" alt="Sauberr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
