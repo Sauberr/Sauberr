@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="30" width="40" /></a>
+<a href="https://www.instagram.com/1_birilko_dmitriy_1/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="sauberr10" height="30" width="40" /></a>
+<a href="https://t.me/DimaBirilko" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/telegram.svg" alt="sauberr10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B0-%D0%B1%D0%B8%D1%80%D0%B8%D0%BB%D0%BA%D0%BE-660914286/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/linkedin.svg" alt="sauberr10" height="30" width="40" /></a>
 </p>
 
 ## 💬 About me
