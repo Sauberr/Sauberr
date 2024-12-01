@@ -43,6 +43,13 @@
 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚢𝚘𝚞𝚛 𝚊𝚝𝚝𝚎𝚗𝚝𝚒𝚘𝚗!
 
 
+Hi, I'm **Dmitry**, a backend Python developer with experience building web applications since 2022. I specialize in using frameworks like Django, Flask, and FastAPI to create robust and efficient server-side solutions. I'm proficient in working with databases such as PostgreSQL and MySQLite, and I'm comfortable using SQLAlchemy for object-relational mapping.
+I'm passionate about writing clean, well-tested code and I'm always eager to learn new technologies and improve my skills. Currently, I'm exploring FastAPI for asynchronous API development and Pydantic for data validation.
+I'm a strong communicator and enjoy collaborating with others, but I'm also comfortable working independently. I'm responsible, punctual, and dedicated to delivering high-quality work.
+If you're looking for a reliable and experienced backend developer, feel free to reach out! You can find me on social media or email me at 
+
+
+
 
 
 
