@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dima </h1>
-<h3 align="center">A passionate python backend developer from Ukraine</h3>
+<h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
@@ -20,14 +20,14 @@
 
 ![image](https://www.codewars.com/users/Sauberr/badges/large)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
 <p align="left">
 <a href="https://www.instagram.com/1_birilko_dmitriy_1/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="sauberr10" height="30" width="40" /></a>
 <a href="https://t.me/DimaBirilko" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/telegram.svg" alt="sauberr10" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B0-%D0%B1%D0%B8%D1%80%D0%B8%D0%BB%D0%BA%D0%BE-660914286/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/linkedin.svg" alt="sauberr10" height="30" width="40" /></a>
 </p>
 
-## 💬 About me
+## 💬 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
 𝙷𝚒, 𝙸'𝚖 **𝙳𝚖𝚒𝚝𝚛𝚢**, 𝚊 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟸𝟸. 
 
