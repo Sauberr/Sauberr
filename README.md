@@ -39,25 +39,25 @@
 
 
 <h3 align="left">💻  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:</h3>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" alt="JavaScript" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Django" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> </a>
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img align="left" alt="Flask" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img align="left" alt="FastAPI" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" /> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" alt="HTML5" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" alt="CSS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img align="left" alt="GitHub" width="48px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" /> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img align="left" alt="SQLite" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" /> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="left" alt="PostgreSQL" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> </a>
-<a href="https://redis.io/downloads/" target="_blank" rel="noreferrer"> <img align="left" alt="Redis" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" /> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Git" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> </a>
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img align="left" alt="RabbitMQ" width="48px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original.svg" /> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Docker" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> </a>
-<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img align="left" alt="Elasticsearch" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-plain.svg" /> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> </a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img align="left" alt="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" /> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" /> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" /> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> </a>
+<a href="https://redis.io/downloads/" target="_blank" rel="noreferrer"> <img align="left" alt="Redis" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" /> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> </a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img align="left" alt="RabbitMQ" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original.svg" /> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> </a>
+<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img align="left" alt="Elasticsearch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-plain.svg" /> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="48" height="48"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="48" height="48"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="30"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="30"/> </a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="30"/> </a>
 
 <br clear="left"/>
 <br clear="left"/>
