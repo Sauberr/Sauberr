@@ -5,13 +5,13 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Sauberr.Sauberr&color=00BFFF)
 
-- 👨‍💻 My Portfolio [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
+- 👨‍💻 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
 
-- 💬 Ask me about **Python, WEB, Django**
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **Python, WEB, Django**
 
-- 📫 How to reach me **𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
-- 🎓 Student of Computer Science
+- 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 
 <h3 align="left">LeetCode & CodeWars</h3>
 <p align="left">
