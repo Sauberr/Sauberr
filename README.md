@@ -1,25 +1,3 @@
-
-
-<p align="left">
-  <a href="https://github.com/Sauberr?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sauberr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Sauberr?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Sauberr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-<hr>
-
-
-<br clear="left"/>
-<br clear="left"/>
-
-### 📊 Stats:
-
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko"/>
-
-[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
-
-
 <h1 align="center">Hi 👋, I'm Dima </h1>
 <h3 align="center">A passionate python backend developer from Ukraine</h3>
 
@@ -95,6 +73,11 @@
 <img align="left" alt="RabbitMQ" width="48px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original.svg" />
 <img align="left" alt="Docker" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="Elasticsearch" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-plain.svg" />
+
+<br clear="left"/>
+<br clear="left"/>
+
+### 📊 Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauberr&show_icons=true&locale=en&layout=compact" alt="sauberr" /></p>
 
