@@ -7,14 +7,14 @@
 
 - 👨‍💻 My Portfolio [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
 
-- 💬 Ask me about **WEB**
+- 💬 Ask me about **Python, WEB, Django**
 
 - 📫 How to reach me **𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
 <h3 align="left">LeetCode & CodeWars</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="40" width="40" /></a>
-<a href="https://www.codewars.com/users/Sauberr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-wars.svg" alt="Sauberr" height="40" width="40" /></a>
+<a href="https://www.codewars.com/users/Sauberr" target="blank"><img align="center" src="https://github.com/codewars/branding/blob/master/dark-text-logo.png#gh-light-mode-only" alt="Sauberr" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
