@@ -13,14 +13,14 @@
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 
-<h3 align="left">𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 & 𝙲𝚘𝚍𝚎𝚆𝚊𝚛𝚜</h3>
+<h3 align="left">🎯 𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 & 𝙲𝚘𝚍𝚎𝚆𝚊𝚛𝚜</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="30" width="40" /></a>
 </p>
 
 ![image](https://www.codewars.com/users/Sauberr/badges/large)
 
-<h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
+<h3 align="left">🤝 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
 <p align="left">
 <a href="https://www.instagram.com/1_birilko_dmitriy_1/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="sauberr10" height="30" width="40" /></a>
 <a href="https://t.me/DimaBirilko" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/telegram.svg" alt="sauberr10" height="30" width="40" /></a>
