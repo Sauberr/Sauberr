@@ -1,8 +1,6 @@
 <h1 align="center"> 𝙷𝚒 👋, 𝙸'𝚖 𝙳𝚒𝚖𝚊 </h1>
 <h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚢𝚝𝚑𝚘𝚗 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Sauberr.Sauberr&color=00BFFF)
 
 - 👨‍💻 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
