@@ -1,8 +1,6 @@
 <h1 align="center"> 𝙷𝚒 👋, 𝙸'𝚖 𝙳𝚒𝚖𝚊 </h1>
 <h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚢𝚝𝚑𝚘𝚗 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3>
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Sauberr.Sauberr&color=00BFFF)
-
 - 👨‍💻 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
 
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙿𝚢𝚝𝚑𝚘𝚗, 𝚆𝙴𝙱, 𝙳𝚓𝚊𝚗𝚐𝚘**
