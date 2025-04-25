@@ -9,7 +9,7 @@
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 
-<h3 align="left">🎯 𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 & 𝙲𝚘𝚍𝚎𝚆𝚊𝚛𝚜</h3>
+<h1 align="left">🎯 𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 & 𝙲𝚘𝚍𝚎𝚆𝚊𝚛𝚜</h1>
 
 <p align="left">
 <a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="30" width="40" /></a>
@@ -17,16 +17,15 @@
 
 ![image](https://www.codewars.com/users/Sauberr/badges/large)
 
-<h3 align="left">🤝 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎</h3>
-<hr>
+<h1 align="left">🤝 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎</h1>
+
 <p align="left">
 <a href="https://www.instagram.com/1_birilko_dmitriy_1/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="sauberr10" height="30" width="40" /></a>
 <a href="https://t.me/DimaBirilko" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/telegram.svg" alt="sauberr10" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B0-%D0%B1%D0%B8%D1%80%D0%B8%D0%BB%D0%BA%D0%BE-660914286/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/linkedin.svg" alt="sauberr10" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💬 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
-<hr>
+<h1 align="left">💬 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h1>
 
 𝙷𝚒, 𝙸'𝚖 **𝙳𝚖𝚒𝚝𝚛𝚢**, 𝚊 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚙𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟸𝟸. 
 
@@ -37,8 +36,8 @@
 𝙸𝚏 𝚢𝚘𝚞'𝚛𝚎 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚊 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚍 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝! 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊 𝚘𝚛 𝚎𝚖𝚊𝚒𝚕 𝚖𝚎 𝚊𝚝 𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖.
 
 
-<h3 align="left">💻  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h3>
-<hr>
+<h1 align="left">💻  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h1>
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" alt="JavaScript" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Django" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> </a>
@@ -61,8 +60,7 @@
 <br clear="left"/>
 <br clear="left"/>
 
-<h3 align="left">📊 𝚂𝚝𝚊𝚝𝚜</h3>
-<hr>
+<h1 align="left">📊 𝚂𝚝𝚊𝚝𝚜</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauberr&show_icons=true&locale=en&layout=compact" alt="sauberr" /></p>
 
