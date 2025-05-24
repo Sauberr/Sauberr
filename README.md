@@ -69,3 +69,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&locale=en" alt="sauberr" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauberr)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+" alt="Typing SVG" style="transform: rotate(180deg);" />
+</p>
+
