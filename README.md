@@ -71,5 +71,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauberr)](https://git.io/streak-stats)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&animation=fadeIn" />
 </div>
