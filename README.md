@@ -70,7 +70,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauberr)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+" alt="Typing SVG" style="transform: rotate(180deg);" />
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=footer&animation=fadeIn" />
+</div>
