@@ -55,9 +55,6 @@
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img align="left" alt="Elasticsearch" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-plain.svg" /> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48" style="padding-right:10px;" /> </a>
 
-<br clear="left"/>
-<br clear="left"/>
-
 <h2 align="left">📊 𝚂𝚝𝚊𝚝𝚜</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauberr&show_icons=true&locale=en&layout=compact" alt="sauberr" /></p>
