@@ -36,7 +36,7 @@
 𝙸𝚏 𝚢𝚘𝚞'𝚛𝚎 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚊 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚍 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝! 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊 𝚘𝚛 𝚎𝚖𝚊𝚒𝚕 𝚖𝚎 𝚊𝚝 𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖.
 
 
-<h2 align="left">💻  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h2>
+<h2 align="left">⚙️  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h2>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" alt="JavaScript" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
@@ -54,8 +54,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Docker" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> </a>
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img align="left" alt="Elasticsearch" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-plain.svg" /> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48" style="padding-right:10px;" /> </a>
-
-
 
 <br clear="left"/>
 <br clear="left"/>
