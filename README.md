@@ -3,7 +3,7 @@
 
 - 👨‍💻 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 Site [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
 
-- 🎯 Passionate about web development, backend engineering, and learning new technologies
+- 🎯 Passionate about **web development, backend engineering,** and **learning new technologies**
 
 - 🌍 English level: **Upper-Intermediate (B2)**
 
