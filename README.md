@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Python+Backend+Developer;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Loves+clean+code+%26+automation;Learning+new+things+every+day+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Python+Backend+Developer;From+Ukraine;Loves+clean+code+%26+automation;" alt="Typing SVG" />
 </p>
 
 - 👨‍💻 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 Site [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
