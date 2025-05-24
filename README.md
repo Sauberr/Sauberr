@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF,00BFFF,ADD8E6&height=200&section=header&text=Hi%20👋%2C%20I'm%20Dima!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF,ADD8E6&height=200&section=header&text=Hi%20👋%2C%20I'm%20Dima!&fontSize=38&fontColor=ffffff&animation=fadeIn&backgroundColor=0,191,255" />
 </div>
+
 
 
 <p align="center">
