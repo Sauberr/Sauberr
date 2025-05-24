@@ -1,11 +1,22 @@
+<h1 align="center"> 𝙷𝚒 👋, 𝙸'𝚖 𝙳𝚒𝚖𝚊 </h1>
+<h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚢𝚝𝚑𝚘𝚗 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=𝙷𝚒%20there!%20I'm%20Dima%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Hi%20👋%2C%20I'm%20Dima!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=𝙰+𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎+𝚙𝚢𝚝𝚑𝚘𝚗+𝚋𝚊𝚌𝚔𝚎𝚗𝚍+𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+𝚏𝚛𝚘𝚖+𝚄𝚔𝚛𝚊𝚒𝚗𝚎" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Python+Backend+Developer;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Loves+clean+code+%26+automation;Learning+new+things+every+day+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Hi%20there!%20I'm%20dosherak%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=16+y.o.+Web+Developer+from+Kazakhstan;Student+at+IT+Step+Academy+%F0%9F%93%9A;Backend+%7C+Frontend+%7C+Full-Stack;Learning+new+tech+every+day!+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
 <h1 align="center"> 𝙷𝚒 👋, 𝙸'𝚖 𝙳𝚒𝚖𝚊 </h1>
 <h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚙𝚢𝚝𝚑𝚘𝚗 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3>
