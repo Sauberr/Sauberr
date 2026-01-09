@@ -68,7 +68,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&locale=en" alt="sauberr" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauberr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sauberr)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&animation=fadeIn" />
