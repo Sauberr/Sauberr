@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Python+Backend+Developer;From+Ukraine;Loves+clean+code+%26+automation;" alt="Typing SVG" />
 </p>
 
-- 👨‍💻 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 Site [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
+- 👨‍💻 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚂𝚒𝚝𝚎 [https://sauberr.github.io/sauberr-github.io/](https://sauberr.github.io/sauberr-github.io/)
 
 - 🎯 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐,** 𝚊𝚗𝚍 **𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜**
 
@@ -16,7 +16,7 @@
 
 - 🎓 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎**
 
-<h2 align="left">🎯 **𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 & 𝙲𝚘𝚍𝚎𝚆𝚊𝚛𝚜**</h2>
+<h2 align="left">🎯 𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 & 𝙲𝚘𝚍𝚎𝚆𝚊𝚛𝚜</h2>
 
 <p align="left">
 <a href="https://www.leetcode.com/sauberr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauberr10" height="30" width="40" /></a>
